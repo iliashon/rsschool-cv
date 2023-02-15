@@ -17,3 +17,54 @@ At that moment, I realized that I like writing code, working in a team, performi
   + accomplishing tasks
 ---
 ## Skills
++ HTML5
++ CSS3
++ JavaScript
+    + JSON
+    + AJAX
++ Git, GitHub
++ Code editor
+    + VScode
+    + Sublime Text
++ Figma basics
+---
+## Code examples
+### Categorize New Member
+The Western Suburbs Croquet Club has two categories of membership, Senior and Open. They would like your help with an application form that will tell prospective members which category they will be placed.
+
+To be a senior, a member must be at least 55 years old and have a handicap greater than 7. In this croquet club, handicaps range from -2 to +26; the better the player the lower the handicap.
+
+### Input
+Input will consist of a list of pairs. Each pair contains information for a single potential member. Information consists of an integer for the person's age and an integer for the person's handicap.
+
+### Output
+Output will consist of a list of string values (in Haskell and C: Open or Senior) stating whether the respective member is to be placed in the senior or open category.
+### Example
+    input =  [[18, 20], [45, 2], [61, 12], [37, 6], [21, 21], [78, 9]]
+    output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
+#### JavaScript:
+    function openOrSenior(data){
+        let arr = [];
+        for (let i = 0; i < data.length; i++){
+            if (data[i][0] >= 55 && data[i][1] > 7){
+                arr.push('Senior');
+            } else {
+                arr.push('Open');
+            }
+        }
+        return arr;
+    }
+---
+## Experience
++ Сourses
+    + Fundamentals of web development. HTML and CSS (Udemy, __Finished__)
+    + FlexBox layout (HTML, CSS) - express course (Udemy, __Finished__)
+    + The Complete JavaScript + React Course (Udemy, __In progress__)
+    + RS school stage 1 (__In progress__)
++ Educational projects 
+    + https://github.com/iliashon/Project_easyCode (Flexbox course project)
+    + https://github.com/iliashon/Project_mars_JS (Javascript practice project, on moving around the house elements and changing them)
+    + https://github.com/iliashon/project_portfolio (Portfolio project, new knowledge is realized on it, __In progress__)
+
+
+    
