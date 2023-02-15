@@ -1,11 +1,13 @@
 # Tupalski Ilya
 ## Contacts
+
 + Email: [itupalski@gmail.com](itupalski@gmail.com)
 + Phone: +995 593 645 045
 + Telegram: [https://t.me/Ilyatupalski](https://t.me/Ilyatupalski)
 + Discord: Ilya Tupalski (@iliashon)
 + GitHub: [https://github.com/iliashon](https://github.com/iliashon)
----
+
+
 ## About Me
 My story started in college. I studied to be a CNC programmer, I was hooked on the topic of machine programming. I was the best on the course, showed a good result. After training, I got a job as a CNC operator, and in one year I grew up to a master, I conducted interviews, set up equipment.
 
@@ -15,7 +17,9 @@ At that moment, I realized that I like writing code, working in a team, performi
   + respect for criticism
   + the ability to work in a team
   + accomplishing tasks
----
+
+
+
 ## Skills
 + HTML5
 + CSS3
@@ -27,7 +31,9 @@ At that moment, I realized that I like writing code, working in a team, performi
     + VScode
     + Sublime Text
 + Figma basics
----
+
+
+
 ## Code examples
 ### CodeWars
 [![Alt text](https://www.codewars.com/users/Tupalski/badges/large)](https://www.codewars.com/users/Tupalski)
@@ -60,7 +66,9 @@ function openOrSenior(data){
     return arr;
  }
  ```
----
+
+
+
 ## Experience
 + Сourses
     + Fundamentals of web development. HTML and CSS (Udemy, __Finished__)
@@ -71,11 +79,12 @@ function openOrSenior(data){
     + [Flexbox course project](https://github.com/iliashon/Project_easyCode)
     + [Javascript practice project, on moving around the house elements and changing them](https://github.com/iliashon/Project_mars_JS)
     + [Portfolio project, new knowledge is realized on it, __In progress__](https://github.com/iliashon/project_portfolio)
-    ---
+
+
+
 ## Languages
 + English (A2, __in the process of studying__)
 + Russian (__native__)
 + Belarusian (__medium__)
----
 
     
