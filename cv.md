@@ -3,7 +3,7 @@
 + Email: itupalski@gmail.com
 + Phone: +995 593 645 045
 + Telegram: https://t.me/Ilyatupalski
-+ Discord: Ilya_Tupalski #3146
++ Discord: Ilya Tupalski (@iliashon)
 + GitHub: https://github.com/iliashon
 ---
 ## About Me
@@ -29,6 +29,8 @@ At that moment, I realized that I like writing code, working in a team, performi
 + Figma basics
 ---
 ## Code examples
+### CodeWars
+[![Alt text](https://www.codewars.com/users/Tupalski/badges/large)](https://www.codewars.com/users/Tupalski)
 ### Categorize New Member
 The Western Suburbs Croquet Club has two categories of membership, Senior and Open. They would like your help with an application form that will tell prospective members which category they will be placed.
 
