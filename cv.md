@@ -65,6 +65,11 @@ Output will consist of a list of string values (in Haskell and C: Open or Senior
     + https://github.com/iliashon/Project_easyCode (Flexbox course project)
     + https://github.com/iliashon/Project_mars_JS (Javascript practice project, on moving around the house elements and changing them)
     + https://github.com/iliashon/project_portfolio (Portfolio project, new knowledge is realized on it, __In progress__)
-
+    ---
+## Languages
++ English (A2, __in the process of studying__)
++ Russian (__native__)
++ Belarusian (__medium__)
+---
 
     
